@@ -1,6 +1,6 @@
 #clockcontainer{
     margin: auto;
-    background: url(clock_without_hands.jpg) no-repeat;
+    background: url('clock_without_hands.jpg') no-repeat;
     background-size:100%;
     height: 50vw;
     width: 50vw;
